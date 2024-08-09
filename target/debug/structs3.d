@@ -1,1 +1,1 @@
-/home/kernic/Programming/rust/rustlings/target/debug/structs3: /home/kernic/Programming/rust/rustlings/exercises/07_structs/structs3.rs
+/home/kernic/dev/rust/rustlings_Save/target/debug/structs3: /home/kernic/dev/rust/rustlings_Save/exercises/07_structs/structs3.rs

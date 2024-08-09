@@ -1,1 +1,1 @@
-/home/kernic/Programming/rust/rustlings/target/debug/quiz1: /home/kernic/Programming/rust/rustlings/exercises/quizzes/quiz1.rs
+/home/kernic/dev/rust/rustlings_Save/target/debug/quiz1: /home/kernic/dev/rust/rustlings_Save/exercises/quizzes/quiz1.rs

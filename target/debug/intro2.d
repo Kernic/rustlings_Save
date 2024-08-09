@@ -1,1 +1,1 @@
-/home/kernic/Programming/rust/rustlings/target/debug/intro2: /home/kernic/Programming/rust/rustlings/exercises/00_intro/intro2.rs
+/home/kernic/dev/rust/rustlings_Save/target/debug/intro2: /home/kernic/dev/rust/rustlings_Save/exercises/00_intro/intro2.rs
